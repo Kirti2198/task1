@@ -18,3 +18,24 @@
   color: white;
   cursor: pointer;
 }
+.stack {
+  border: solid;
+  width: 300px;
+  height: 360px;
+  margin-top: 80px;
+  margin-left: 530px;
+  margin-bottom: 20px;
+}
+.in_stack {
+  width: 295px;
+  height: 10px;
+}
+.apple_stack {
+  background-color: rgb(172, 16, 16);
+}
+.orange_stack {
+  background-color: orange;
+}
+.grapes_stack {
+  background-color: blue;
+}
